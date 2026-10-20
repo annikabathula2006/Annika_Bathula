@@ -1,55 +1,54 @@
-
 # Hi, I'm Annika Bathula! 👋
 
-### Robotics & Automation | ROS 2 | Python | Robot Simulation
+🎓 **Robotics and Automation Engineering Graduate**  
+🤖 Interested in ROS 2, Robot Simulation, and Automation
 
-I'm a Robotics and Automation engineering graduate/student
-building practical skills in robot programming, simulation,
-control systems, and industrial automation.
+I'm a Robotics and Automation engineering graduate from India, interested in learning how robots are designed, programmed, simulated, and controlled. I am building my practical skills through robotics projects, simulation tools, and hands-on experiments.
 
-I enjoy working on projects that combine software,
-robotics, sensors, and intelligent automation.
+I use Ubuntu Linux for robotics development and am currently working on improving my knowledge of ROS 2, robot simulation, and control systems.
 
-## 🔧 Technical Skills
+## 🛠️ Technical Skills
 
 - **Programming:** Python, C
-- **Robotics:** ROS 2, robot kinematics, robot control
+- **Robotics:** ROS 2 fundamentals, robot kinematics, robot control
 - **Simulation:** Gazebo, CoppeliaSim
-- **Engineering Tools:** MATLAB, SolidWorks, Fusion 360, Siemens NX
-- **Environment:** Ubuntu Linux, Git, GitHub
+- **Engineering Software:** MATLAB, SolidWorks, Fusion 360, Siemens NX
+- **Operating System:** Ubuntu Linux
+- **Development Tools:** Git and GitHub — learning version control and project management
 
-## 🤖 Featured Projects
+## 🤖 Projects & Practical Work
 
-### ROS 2 Mobile Robot Simulation
-A mobile robot project exploring robot description,
-simulation, teleoperation, and sensor integration.
+### 1. ROS 2 Mobile Robot Simulation
+Working on a mobile robot simulation using ROS 2 and Gazebo. The project involves understanding robot descriptions, launching simulations, teleoperation, and navigation concepts.
 
-Status: In progress
+**Status:** In progress
 
-### Smart Warehouse Robot
-A simulation project focused on line following,
-sensor-based navigation, and warehouse automation.
+### 2. Echo Balancer — LQR Control
+Learning state-space modelling and Linear Quadratic Regulator (LQR) tuning as part of the e-Yantra robotics competition.
 
-Status: In progress
+**Status:** In progress
 
-### Echo Balancer — LQR Control
-A robotics control project focused on state-space modeling
-and Linear Quadratic Regulator (LQR) tuning.
+## 📚 Currently Learning
 
-Status: In progress
+- ROS 2 development on Ubuntu
+- Robot simulation using Gazebo
+- Git and GitHub for version control
+- Robot navigation and control systems
+- Building and documenting practical robotics projects
 
 ## 🎯 Areas of Interest
 
-- ROS 2 and autonomous robotics
-- Robot simulation and navigation
+- Autonomous mobile robots
+- ROS 2 and robot software development
+- Robotics simulation and navigation
 - Embedded systems and sensors
-- Control systems and industrial automation
+- Industrial automation and control systems
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/annika-bathula-2b2674344/
+- **LinkedIn:** [Annika Bathula](https://linkedin.com/in/annika-bathula-2b2674344/)
+- **GitHub:** [Annika_Bathula](https://github.com/Annika_Bathula)
 
 ---
 
-I'm continuously learning and building projects
-to develop my skills in robotics and automation.
+*I'm continuously learning, experimenting, and documenting my progress in robotics and automation.*
